@@ -1,0 +1,33 @@
+Imagine o seguinte cenário:
+Uma escola tem vários funcionários.
+No final de cada ano, a escola paga um bônus sobre o salário apenas dos coordenadores e dos
+professores. Os demais funcionários da escola não ganham esse bônus.
+Há uma regra na escola de que o coordenador não deve dar aula, e de que o professor não deve
+coordenar.
+Se quisermos obrigar que a classe que representa o Professor e a classe que representa o
+Coordenador implementem o método: getValorBonus(), qual seria a melhor forma: classe
+abstrata ou interface? Justifique.
+Implemente o sistema, de acordo com a sua resposta.
+Implemente a classe abstrata ou a interface, o que você julgou ser mais adequado.
+Atributos de Professor: nome, quantidade de aulas por semana, valor da hora aula
+Atributos de Coordenador: nome, quantidade de horas de coordenação por semana, valor da
+hora de coordenação
+Cálculo do bônus do Professor: quantidade de aulas por semana * valor da hora aula * 4.5 * 0.15
+Cálculo do bônus do Coordenador: quantidade de horas de coordenação por semana * valor da
+hora de coordenação * 4.5 * 0.2
+Implemente também a classe ControleBonus, que terá como atributo um ou mais List para
+conter todos os objetos que recebem bônus. Pergunta: é necessário ter 2 List ou apenas um?
+Implemente na classe ControleBonus o método que adiciona o objeto ao(s) List, o método que
+exibe o conteúdo do(s) List, e o método que calcula o total de bônus do(s) List.
+Não se esqueça de implementar o construtor e o toString() nas diversas classes, parecido com o
+que fizemos nos exercícios.
+Implemente a classe que contém o main, e dentro do main, crie objetos Professor e
+Coordenador, crie objeto da classe ControleBonus, e chame seus métodos.
+Desenhe o diagrama de classes do sistema.
+O polimorfismo está presente nesse sistema? Justifique.
+A resposta das perguntas pode ser entregue num arquivo txt zipado junto com o projeto, ou
+como comentário dentro do código.
+Coloque um arquivo com um PRINT do diagrama de classes na pasta do projeto
+
+
+

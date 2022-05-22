@@ -1,0 +1,7 @@
+00FILMES05-05-2022 20:14:3701
+02001Diario de uma paixão                              10,00Romance   013
+02002Nasce uma estrela                                 10,00Romance   018
+02003Pantera negra                                     10,00Ação      016
+02004Ainda estou aqui                                  07,00Romance   013
+02005Invocação do mal                                  09,00Terror    018
+010000000005

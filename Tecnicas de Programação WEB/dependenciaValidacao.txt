@@ -1,0 +1,6 @@
+<!-- dependência que habilita anotações de validação -->
+<dependency>
+   <groupId>org.springframework.boot</groupId>
+   <artifactId>spring-boot-starter-validation</artifactId>
+</dependency>
+<!-- dependência que habilita anotações de validação -->

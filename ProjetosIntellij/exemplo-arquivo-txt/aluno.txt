@@ -1,0 +1,8 @@
+00NOTA2022103-05-2022 12:21:3801
+02ADS  01211124Victoria                                          Estrutura e Armazenamento de Dados      06,00012
+02ADS  01211134Fulano                                            Prog. Web                               08,00006
+02ADS  01211120Julia                                             Eng                                     10,00000
+02CCO  02211020Célia                                             Calculo Computacional                   07,00012
+02SIS  03221000Ana                                               Banco de Dados                          08,50008
+02REDES04221030Yosh                                              Segurança                               06,00020
+010000000006
